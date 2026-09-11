@@ -9,19 +9,19 @@ I’m currently transitioning into Product Design, with a focus on UX/UI, digita
 
 What I’m focusing on
 
-* 🎨 Product Design & UX/UI
-* 🧩 Design systems & prototyping
-* 💻 Web development fundamentals
-* 🤖 AI & emerging technologies
-* 🐙 Git & GitHub
+- 🎨 Product Design & UX/UI
+- 🧩 Design systems & prototyping
+- 💻 Web development fundamentals
+- 🤖 AI & emerging technologies
+- 🐙 Git & GitHub
 
 Tools & technologies
 
-* Figma
-* Git & GitHub
-* HTML / CSS / JavaScript
-* JetBrains IDEs
-* AI tools
+> Figma
+> Git & GitHub
+> HTML / CSS / JavaScript
+> JetBrains IDEs
+> AI tools
 
 Currently learning
 
